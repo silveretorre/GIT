@@ -248,7 +248,7 @@
     <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="flux_de_donnees" show="false"/>
   </connection>
-  <note opaque="true" posX="96" posY="160" sizeHeight="64" sizeWidth="161" text="BRANCH1 - REMOTE">
+  <note opaque="true" posX="96" posY="160" sizeHeight="64" sizeWidth="257" text="BRANCH1 - REMOTE">
     <elementParameter field="COLOR" name="NOTE_COLOR" value="225;225;135"/>
     <elementParameter field="TEXT" name="FONT_SIZE" value="12"/>
   </note>
